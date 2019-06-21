@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxHtmlEditor - How to manipulate ASPxHtmlEditor View Areas by CustomToolbarButton
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3980/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to manipulate ASPxHtmlEditor View Areas by CustomToolbarButton.</p>
