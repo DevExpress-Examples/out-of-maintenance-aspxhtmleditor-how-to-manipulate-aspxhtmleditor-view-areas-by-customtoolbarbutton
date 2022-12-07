@@ -10,7 +10,7 @@ public partial class _Default : System.Web.UI.Page {
 	}
     }
 
-    protected void cp_Callback(object sender, DevExpress.Web.ASPxClasses.CallbackEventArgsBase e) {
+    protected void cp_Callback(object sender, DevExpress.Web.CallbackEventArgsBase e) {
         if(e.Parameter == "opened") {
             htmlEditor.Settings.AllowHtmlView = true;
             htmlEditor.Settings.AllowPreview = true;

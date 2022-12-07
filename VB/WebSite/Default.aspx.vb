@@ -13,7 +13,7 @@ Partial Public Class _Default
     End If
     End Sub
 
-    Protected Sub cp_Callback(ByVal sender As Object, ByVal e As DevExpress.Web.ASPxClasses.CallbackEventArgsBase)
+    Protected Sub cp_Callback(ByVal sender As Object, ByVal e As DevExpress.Web.CallbackEventArgsBase)
         If e.Parameter = "opened" Then
             htmlEditor.Settings.AllowHtmlView = True
             htmlEditor.Settings.AllowPreview = True
